@@ -1,1 +1,13 @@
-# Kang_Z_DataViz
+maybe an image here?
+
+# Olympic Data Visualization Project
+
+### synopsis would go here
+
+and some text about your project, your insights, etc
+
+### Author
+
+### Tools Used
+
+### License
